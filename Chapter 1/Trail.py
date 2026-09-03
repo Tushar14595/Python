@@ -1,0 +1,5 @@
+print("Hello"'\tworld'"\tTushar")
+print('world'"\tTushar\t"'World')
+print("I'm a Tushar")
+print("this is blackslash \\")
+print('\\')

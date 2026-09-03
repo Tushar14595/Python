@@ -1,0 +1,10 @@
+# name = input("Enter your Name : ")
+# age = input("Enter your age : ")
+name , age = input("Enter your name and age:- ").split(",")
+print(name , age)
+#  print(age)
+# number = input("Enter two Numbers")
+# print()
+
+# name = ("Tushar")
+# print(name)

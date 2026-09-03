@@ -1,0 +1,7 @@
+print("Hello User")
+print("hello World")
+print("I'm Tushar")
+print("We are learing python 3.0 ")
+print("completed Tybca in pritbha college of computer studies")
+print("PCCCS")
+print("")
